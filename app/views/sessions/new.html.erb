@@ -1,0 +1,18 @@
+<h1>Sign in</h1>
+
+<div class="row">
+  <div class="span6 offset3">
+    <%= form_for(:session, url: sessions_path) do |f| %>
+
+        <%= f.label :Masukan_Email %>
+        <%= f.text_field :email %>
+
+        <%= f.label :password %>
+        <%= f.password_field :password %>
+
+        <%= f.submit "Sign in", class: "btn btn-medium btn-primary" %>
+    <% end %>
+
+    <p>pasti belum punya akun?<%=image_tag "h.png", :size => "50x24" %> <%= link_to "duel yok!", signup_path %> <%=image_tag "y.jpg", :size => "68x25"%></p>
+  </div>
+</div>
