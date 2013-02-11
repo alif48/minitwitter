@@ -31,7 +31,7 @@
       <file leaf-file-name="home.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/i/home.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="11" selection-start="322" selection-end="322" vertical-scroll-proportion="-7.8461537">
+            <state line="12" column="11" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0">
               <folding>
                 <marker date="1360221474704" expanded="true" signature="3:711" placeholder="if ... end" />
                 <marker date="1360221474704" expanded="true" signature="40:434" placeholder="..." />
@@ -47,36 +47,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_feed.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/shared/_feed.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1359882661609" expanded="true" signature="52:160" placeholder="..." />
-                <marker date="1359882661609" expanded="true" signature="64:150" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_feed_item.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/shared/_feed_item.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="19" selection-start="198" selection-end="198" vertical-scroll-proportion="-3.2692308">
-              <folding>
-                <marker date="1360220503061" expanded="true" signature="28:551" placeholder="..." />
-                <marker date="1360220503061" expanded="true" signature="112:177" placeholder="..." />
-                <marker date="1360220503061" expanded="true" signature="260:339" placeholder="..." />
-                <marker date="1360220503061" expanded="true" signature="346:543" placeholder="if ... end" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="4" selection-start="558" selection-end="558" vertical-scroll-proportion="-12.423077">
+            <state line="19" column="4" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0">
               <folding>
                 <marker date="1360492381261" expanded="true" signature="21:613" placeholder="..." />
                 <marker date="1360492381261" expanded="true" signature="28:328" placeholder="..." />
@@ -92,7 +66,7 @@
       <file leaf-file-name="_micropost_form.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/shared/_micropost_form.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding>
                 <marker date="1359949472918" expanded="true" signature="25:291" placeholder="do ... end" />
                 <marker date="1359949472918" expanded="true" signature="117:219" placeholder="..." />
@@ -104,7 +78,7 @@
       <file leaf-file-name="create.js.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/relationships/create.js.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="28" selection-start="28" selection-end="28" vertical-scroll-proportion="-0.0">
+            <state line="0" column="28" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -113,7 +87,7 @@
       <file leaf-file-name="_unfollow.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/users/_unfollow.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="28" selection-start="210" selection-end="210" vertical-scroll-proportion="-2.6153846">
+            <state line="4" column="28" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -122,7 +96,7 @@
       <file leaf-file-name="show.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/users/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="22" selection-start="284" selection-end="284" vertical-scroll-proportion="-8.5">
+            <state line="13" column="22" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0">
               <folding>
                 <marker date="1360215576120" expanded="true" signature="50:529" placeholder="..." />
                 <marker date="1360215576120" expanded="true" signature="74:261" placeholder="..." />
@@ -141,6 +115,32 @@
           <provider selected="true" editor-type-id="text-editor">
             <state line="5" column="25" selection-start="192" selection-end="192" vertical-scroll-proportion="0.15653776">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_feed_item.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/shared/_feed_item.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="19" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1360220503061" expanded="true" signature="28:551" placeholder="..." />
+                <marker date="1360220503061" expanded="true" signature="112:177" placeholder="..." />
+                <marker date="1360220503061" expanded="true" signature="260:339" placeholder="..." />
+                <marker date="1360220503061" expanded="true" signature="346:543" placeholder="if ... end" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_feed.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/shared/_feed.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1359882661609" expanded="true" signature="52:160" placeholder="..." />
+                <marker date="1359882661609" expanded="true" signature="64:150" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -222,7 +222,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -583,18 +583,18 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="RailsProjectView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="Images" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="Ruby.ViewRefParam.DefaultExtension" value="html.erb" />
-    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="recentsLimit" value="5" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="Ruby.ViewRefParam.DefaultExtension" value="html.erb" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RunManager" selected="Rails.Development: minitwitter">
     <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
@@ -830,7 +830,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24886191" sideWeight="0.671521" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25265554" sideWeight="0.671521" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32847896" sideWeight="0.49772382" order="9" side_tool="true" content_ui="tabs" />
@@ -925,9 +925,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/users/_follow.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="63" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="63" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/shared/_feed.html.erb">
@@ -942,7 +940,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/users/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="22" selection-start="284" selection-end="284" vertical-scroll-proportion="-8.5">
+        <state line="13" column="22" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0">
           <folding>
             <marker date="1360215576120" expanded="true" signature="50:529" placeholder="..." />
             <marker date="1360215576120" expanded="true" signature="74:261" placeholder="..." />
@@ -967,7 +965,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="4" selection-start="558" selection-end="558" vertical-scroll-proportion="-12.423077">
+        <state line="19" column="4" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0">
           <folding>
             <marker date="1360492381261" expanded="true" signature="21:613" placeholder="..." />
             <marker date="1360492381261" expanded="true" signature="28:328" placeholder="..." />
@@ -981,7 +979,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/i/home.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="11" selection-start="322" selection-end="322" vertical-scroll-proportion="-7.8461537">
+        <state line="12" column="11" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0">
           <folding>
             <marker date="1360221474704" expanded="true" signature="3:711" placeholder="if ... end" />
             <marker date="1360221474704" expanded="true" signature="40:434" placeholder="..." />
@@ -1012,14 +1010,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/users/_unfollow.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="28" selection-start="210" selection-end="210" vertical-scroll-proportion="-2.6153846">
+        <state line="4" column="28" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/shared/_feed_item.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="19" selection-start="198" selection-end="198" vertical-scroll-proportion="-3.2692308">
+        <state line="5" column="19" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
           <folding>
             <marker date="1360220503061" expanded="true" signature="28:551" placeholder="..." />
             <marker date="1360220503061" expanded="true" signature="112:177" placeholder="..." />
